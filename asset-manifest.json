@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/9ijakids-game/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/9ijakids-game/static/js/main.bb44213d.chunk.js",
+    "main.js.map": "/9ijakids-game/static/js/main.bb44213d.chunk.js.map",
+    "runtime-main.js": "/9ijakids-game/static/js/runtime-main.46122ff7.js",
+    "runtime-main.js.map": "/9ijakids-game/static/js/runtime-main.46122ff7.js.map",
+    "static/js/2.c1bf9080.chunk.js": "/9ijakids-game/static/js/2.c1bf9080.chunk.js",
+    "static/js/2.c1bf9080.chunk.js.map": "/9ijakids-game/static/js/2.c1bf9080.chunk.js.map",
+    "static/js/3.a42c751d.chunk.js": "/9ijakids-game/static/js/3.a42c751d.chunk.js",
+    "static/js/3.a42c751d.chunk.js.map": "/9ijakids-game/static/js/3.a42c751d.chunk.js.map",
+    "static/js/4.b59bd4cf.chunk.js": "/9ijakids-game/static/js/4.b59bd4cf.chunk.js",
+    "static/js/4.b59bd4cf.chunk.js.map": "/9ijakids-game/static/js/4.b59bd4cf.chunk.js.map",
+    "static/js/5.94618ac6.chunk.js": "/9ijakids-game/static/js/5.94618ac6.chunk.js",
+    "static/js/5.94618ac6.chunk.js.map": "/9ijakids-game/static/js/5.94618ac6.chunk.js.map",
+    "index.html": "/9ijakids-game/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/9ijakids-game/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c1bf9080.chunk.js.LICENSE.txt": "/9ijakids-game/static/js/2.c1bf9080.chunk.js.LICENSE.txt",
+    "static/js/3.a42c751d.chunk.js.LICENSE.txt": "/9ijakids-game/static/js/3.a42c751d.chunk.js.LICENSE.txt",
+    "static/js/4.b59bd4cf.chunk.js.LICENSE.txt": "/9ijakids-game/static/js/4.b59bd4cf.chunk.js.LICENSE.txt",
+    "static/js/5.94618ac6.chunk.js.LICENSE.txt": "/9ijakids-game/static/js/5.94618ac6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46122ff7.js",
+    "static/js/2.c1bf9080.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.bb44213d.chunk.js"
+  ]
+}
